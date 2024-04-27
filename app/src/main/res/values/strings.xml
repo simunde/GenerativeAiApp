@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GenerativeAiApp</string>
+    <string name="ask_me_anything">Ask me anything</string>
+    <string name="submit">Submit</string>
+</resources>
