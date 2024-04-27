@@ -21,7 +21,7 @@ class MainActivity : AppCompatActivity() {
                 // Use a model that's applicable for your use case (see "Implement basic use cases" below)
                 modelName = "gemini-pro",
                 // Access your API key as a Build Configuration variable (see "Set up your API key" above)
-                apiKey = "your api key"
+                apiKey = " "
             )
 
             runBlocking {
